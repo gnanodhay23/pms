@@ -5,7 +5,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-
+// ashbel is a good boy
 @Entity
 public class Employee {
 	 	@Id
